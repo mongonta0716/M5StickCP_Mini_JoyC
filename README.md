@@ -1,3 +1,10 @@
-# M5Unified_template
+# HAT Mini JoyC Sample
 
-個人用M5Unified開発用テンプレート
+下記のexampleをM5Unifiedに対応し、VSCode+platformioで開けるようにしたもの。
+
+・M5StickC Plus2
+・M5StickC Plus
+
+で動作確認。（多分StickCでも動くが、画面がおかしくなるはずです。）
+
+https://github.com/m5stack/M5Unit-MiniJoyC
